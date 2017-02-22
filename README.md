@@ -9,4 +9,4 @@ It is all very basic.
 
 I would love to be able to Code, so here I go..
 
-Learning.
+On the road, to hopefully be able to code.
