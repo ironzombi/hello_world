@@ -1,12 +1,12 @@
 # hello_world
 
-page of random code
+Simple Code
 -----------------------
 
-Just a page so I can share code.
+This is my code that I am learning.
 
-Although, I do not have anything to share.
+It is all very basic.
 
-I'd love to be able to just code, so here I am.
+I would love to be able to Code, so here I go..
 
 Learning.
