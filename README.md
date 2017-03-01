@@ -1,6 +1,6 @@
 # hello_world
 
-Simple Code
+Simple Code - this should have been a gist and not a git!
 -----------------------
 
 This is my code that I am learning.
